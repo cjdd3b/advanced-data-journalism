@@ -20,4 +20,4 @@ If everything goes as expected, your output should look like this:
 
 <img width="569" alt="screen shot 2017-09-08 at 10 51 10 am" src="https://user-images.githubusercontent.com/947791/30217298-bb79cd24-9483-11e7-8ff9-7011c22e67bd.png">
 
-This assignment is due by the end of class on **Wednesday, Sept. 11.** It should only take 5 minutes.
+When you're done, mark in [this spreadsheet](https://docs.google.com/spreadsheets/d/1omWnBWpSUVYUD10qOjZ3vYEj-YFYLbwXBJPpBahbDqU/edit?usp=drive_web&ouid=116462374319624048534) whether the installation was successful or not. This assignment is due by the end of class on **Wednesday, Sept. 11.** It should only take 5 minutes.
